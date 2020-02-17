@@ -8,6 +8,6 @@ To run the game:
 4. Open `http://localhost:8080/`
 
 ### Instructions
-Click the player name to score
-Click undo to undo one step
-Click configure or start a new game to restart a game or change the rules
+1. Click the player name to score
+2. Click undo to undo one step
+3. Click configure or start a new game to restart a game or change the rules
