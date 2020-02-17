@@ -1,4 +1,4 @@
-# tennis_score
+# Tennis-Score-Indicator
 A tennis score keeper
 
 To run the game:
