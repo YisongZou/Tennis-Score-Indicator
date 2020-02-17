@@ -1,24 +1,14 @@
 $(document).ready(function () {
 
-	const socketAddress = 'http://localhost:8080';
-
-	// hide the Websocket menu if it's not loaded = the web app is static
-	try {
-		if (io === undefined);
-		console.log(`the client is running with sockets`);
-	} catch (e) {
-		console.log(`the client is running without sockets`);
-		$('.ws_only').hide();
-	}
-
 	var pointTrans;
 	var matchState;
 	var matchConfig;
 	var backupMatchState;
 
+
 	// websockets
 	var socket;
-	var match_id;
+
 
 	pointTrans = [0, 15, 30, 40, "AD"];
 
