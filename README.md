@@ -11,3 +11,7 @@ To run the game:
 1. Click the player name to score
 2. Click undo to undo one step
 3. Click configure or start a new game to restart a game or change the rules
+
+## Files
+1. app.js: node server
+2. index.js in js directory: All the functions
